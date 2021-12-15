@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lets_travel/screens/home_page.dart';
 
 void main() => runApp(const MyTravelApp());
 
@@ -12,7 +13,8 @@ class MyTravelApp extends StatefulWidget {
 class _MyTravelAppState extends State<MyTravelApp> {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: HomePage(),
     );
   }
