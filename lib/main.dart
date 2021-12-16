@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lets_travel/launch_screen.dart';
 import 'package:lets_travel/screens/onboarding/onboarding_screen.dart';
 
 void main() => runApp(const MyTravelApp());

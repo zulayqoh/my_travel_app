@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "182-1829110_icon-location-vector-free-png-download-location-icon.png.jpeg",
+      "filename" : "launch_image.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "182-1829110_icon-location-vector-free-png-download-location-icon.png@2x.jpeg",
+      "filename" : "launch_image@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "182-1829110_icon-location-vector-free-png-download-location-icon.png@3x.jpeg",
+      "filename" : "launch_image@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

@@ -91,7 +91,6 @@ class _OnboardingSpaceState extends State<OnboardingSpace> {
       ),
     );
   }
-
   AnimatedContainer buildDot(int index) {
     return AnimatedContainer(
       duration: kThemeAnimationDuration,

@@ -47,7 +47,7 @@ class OnboardingContent extends StatelessWidget {
             ),
             onPressed: () {},
             child: Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 20),
+              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 3),
               child: Text(
                 'Get Started',
                 style: TextStyle(
