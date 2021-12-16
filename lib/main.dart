@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:lets_travel/screens/home_page.dart';
+import 'package:lets_travel/screens/onboarding/onboarding_screen.dart';
 
 void main() => runApp(const MyTravelApp());
 
@@ -15,7 +15,7 @@ class _MyTravelAppState extends State<MyTravelApp> {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: HomePage(),
+      home: OnboardingScreen(),
     );
   }
 }
